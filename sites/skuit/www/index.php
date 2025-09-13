@@ -1,3 +1,3 @@
 <?
-include_once './homework1/my_page.html';
+include_once './lab2/hello_lab2.php';
 ?>
