@@ -1,3 +1,3 @@
 <?
-include_once './lab2/hello_lab2.php';
+include_once './lab3/variables.php';
 ?>
