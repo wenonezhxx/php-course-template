@@ -1,3 +1,5 @@
 <?
-include_once './lab3/variables.php';
+include_once './lab4/header.php';
+include_once './lab4/hobits.php';
+include_once './lab4/footer.php';
 ?>
