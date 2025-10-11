@@ -1,5 +1,5 @@
 <?
-include_once './lab4/header.php';
-include_once './lab4/hobits.php';
-include_once './lab4/footer.php';
+include_once './lab5/header.php';
+include_once './lab5/main.php';
+include_once './lab5/footer.php';
 ?>
