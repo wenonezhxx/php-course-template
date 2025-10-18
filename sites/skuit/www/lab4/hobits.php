@@ -34,6 +34,8 @@ $delayDays= $delayDays + $eventsCount;
 
 $nazgulDays = 5;
 $nazguldelay= $nazgulDays - $delayDays
+
+
 ?>
 
 <div class='block'>
