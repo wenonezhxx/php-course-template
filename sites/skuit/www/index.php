@@ -1,3 +1,3 @@
 <?
-include_once './homework1/my_page.html';
+include_once 'sites/skuit/www/lab9/main.php'
 ?>
